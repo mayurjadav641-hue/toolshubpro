@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>/about</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/tools/qr-code</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/tools/image-compressor</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/tools/pdf-tools</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/tools/color-picker</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/tools/password-generator</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/tools/word-counter</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/contact</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/privacy</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/terms</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/disclaimer</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
